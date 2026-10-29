@@ -21,7 +21,7 @@ env:
   # The same for every team. Leave these alone.
   HABS_TENANT_ID: 6fc0e479-449c-4700-b89c-7c4848058e30
   HABS_STORAGE: sthabshackweu
-  HABS_CLIENT: "habs-hack[storage] @ https://github.com/HABS-BRAIN/habs-hack/releases/download/v0.3.0/habs_hack-0.3.0-py3-none-any.whl"
+  HABS_CLIENT: "habs-hack[storage] @ https://github.com/HABS-BRAIN/habs-hack/releases/download/v0.3.1/habs_hack-0.3.1-py3-none-any.whl"
 
 jobs:
   # Two jobs, not one, so that the two ways a push can fail look different.
